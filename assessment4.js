@@ -89,6 +89,10 @@ console.log(calculation.mult()) // EXECUTION THE OBJECT
   currentTime();</script>
 </html>
 </html>
+
+// Link working of code
+// https://replit.com/@MohdAhtesham/clock#clock1.jpg
+
 //----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //QUESTION 12
 // Make the following code work
