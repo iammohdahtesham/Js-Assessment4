@@ -6,7 +6,7 @@ const animals = [
   { species: 'Whale', name: 'Queen' } 
   ]; 
 
-function printAnimals(i) { //PASSING THE INDEC 
+function printAnimals(i) { //PASSING THE INDEX
 this.print = function() { 
 console.log('#' + i + ' ' + this.species + ': ' + this.name); 
 } 
