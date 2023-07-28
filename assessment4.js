@@ -12,8 +12,8 @@ console.log('#' + i + ' ' + this.species + ': ' + this.name);
 } 
 this.print(); 
 }
-for(let i in animals){  //USING FOR IN LOOP TO ITERATE AND CALL THE FUNCTION AGAIN 
-  printAnimals.call(animals[i],i)  
+for(let value in animals){  //USING FOR IN LOOP TO ITERATE AND CALL THE FUNCTION AGAIN 
+  printAnimals.call(animals[value],value)  
 }
  //OUTPUT = #0 Lion: King
 //          #1 Whale: Queen 
